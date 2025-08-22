@@ -7,7 +7,7 @@ export default defineConfig({
   description: "一个自己实现的vue3 API文档",
   base: '/mini-vue/',
   sitemap: {
-    hostname: 'https://wzh-ne.github.io/mini-vue/',
+    hostname: 'https://wzh-ne.github.io/github-pages/',
   },
   lastUpdated: true,
   markdown: {
