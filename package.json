@@ -15,6 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto-browserify": "^3.12.1",
+    "stable": "^0.1.8",
     "vue": "^3.5.18"
   },
   "devDependencies": {
